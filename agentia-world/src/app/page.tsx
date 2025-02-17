@@ -33,7 +33,7 @@ export default function Home() {
             <div className="h-14 w-14 flex items-center justify-center bg-gradient-to-r from-purple-600 to-blue-600 rounded-full">
               <LiaRobotSolid className="text-2xl text-white" />
             </div>
-            <Input className="bg-gray-800 border-none py-8 text-purple-400" />
+            <Input className="bg-gray-800 border-none py-8 text-purple-400" placeholder="Hello! I'm your AI agent. How can I enhance your business to" />
           </div>
 
           <div className="flex flex-col md:flex-row gap-4 justify-center items-center px-4">
